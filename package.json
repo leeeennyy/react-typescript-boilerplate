@@ -1,0 +1,10 @@
+{
+  "name": "react-typescript-boilerplate",
+  "version": "1.0.0",
+  "description": "Boilerplate to create react+typescript apps",
+  "main": "index.tsx",
+  "repository": "https://github.com/leeeennyy/react-typescript-boilerplate.git",
+  "author": "Alena Choong",
+  "license": "MIT",
+  "private": false
+}
